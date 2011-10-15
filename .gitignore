@@ -30,8 +30,8 @@ pkg
 #.DS_Store
 
 # For TextMate
-#*.tmproj
-#tmtags
+*.tmproj
+tmtags
 
 # For emacs:
 #*~
@@ -46,3 +46,6 @@ pkg
 
 # For rubinius:
 #*.rbc
+
+# For redcar:
+.redcar
